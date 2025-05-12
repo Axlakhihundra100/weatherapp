@@ -1,10 +1,7 @@
-﻿// WeatherApp.cs
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-
 namespace weatherappsim;
-
 public class WeatherApp
 {
     private List<City> Cities;
