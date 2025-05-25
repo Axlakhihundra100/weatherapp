@@ -1,4 +1,5 @@
 Usage: Install any IDE (c#) Preferably JetBrainsRider v(2024.1.1)  
+(To grab the data from the SMHI API i did some magical stuff with the IDE i don't remember. :/)  
 Clone project. (.NET 8.0)  
 Run with Program.cs  
   
